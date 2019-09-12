@@ -16,6 +16,7 @@ Con estos puntos a alcanzar:
 5.- Deberá ser una app compatible y portable para los diferentes sistemas operativos.
 
 **** Requisitos ****
+
 -Scene Builder
 -Netbeans (Cualquier versión).
 -MySQL o (XAMP, WAMP, MAMP).
@@ -25,8 +26,11 @@ Con estos puntos a alcanzar:
 ¿Te sirvio el proyecto? :D
 
  Comenta a otros sobre este proyecto 📢
+
  Invita una cerveza 🍺 a alguien del equipo.
+
  Da las gracias públicamente 🤓.
+
  etc.
 
 *******************************************************************************************************************
