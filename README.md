@@ -33,13 +33,11 @@ Con estos puntos a alcanzar:
 
 ¿Te sirvio el proyecto? :D
 
- Comenta a otros sobre este proyecto 📢
+ Comenta a otros sobre este proyecto y ayudanos a mejorar nuestra versión. 📢
 
- Invitanos una πza 🍕.
+ Invitanos una πza. 🍕
 
- Da las gracias públicamente 🤓.
-
- Ayudanos a mejorar nuestra versión.
+ Da las gracias públicamente. 🤓
 
  etc.
 
