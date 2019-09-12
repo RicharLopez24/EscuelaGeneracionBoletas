@@ -18,18 +18,26 @@ Con estos puntos a alcanzar:
 **** Requisitos ****
 
 -Scene Builder
+
 -Netbeans (Cualquier versión).
+
 -MySQL o (XAMP, WAMP, MAMP).
+
 -Conector a BD JAVA
+
 -Dependencia MAVEN
+
+††††††††††††††††††††††††††††††††††††††††††††††††††††††††††††††††††††††††††††††††††††††††††††††††††††††††††††††††††††
 
 ¿Te sirvio el proyecto? :D
 
  Comenta a otros sobre este proyecto 📢
 
- Invita una cerveza 🍺 a alguien del equipo.
+ Invitanos una πza 🍕.
 
  Da las gracias públicamente 🤓.
+
+ Ayudanos a mejorar nuestra versión.
 
  etc.
 
